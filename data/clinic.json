@@ -1,0 +1,29 @@
+{
+  "services": [
+    {
+      "id": "s1",
+      "name": "Umumiy ko‘rik",
+      "duration": 30,
+      "price": 80000,
+      "doctor": "Dr. Madina Yo‘ldosheva",
+      "emoji": "🩺"
+    },
+    {
+      "id": "s2",
+      "name": "Tish ko‘rigi",
+      "duration": 45,
+      "price": 120000,
+      "doctor": "Dr. Akmal Karimov",
+      "emoji": "🦷"
+    },
+    {
+      "id": "s3",
+      "name": "Bolalar pediatri",
+      "duration": 30,
+      "price": 70000,
+      "doctor": "Dr. Shahnoza Aliyeva",
+      "emoji": "🧸"
+    }
+  ],
+  "bookings": []
+}
